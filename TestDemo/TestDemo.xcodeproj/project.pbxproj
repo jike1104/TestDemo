@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		25D782A21EF534530016E3AF /* test.m in Sources */ = {isa = PBXBuildFile; fileRef = 25D782A11EF534530016E3AF /* test.m */; };
 		79FA20C81EF22F92000572D9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 79FA20C71EF22F92000572D9 /* main.m */; };
 		79FA20CB1EF22F92000572D9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 79FA20CA1EF22F92000572D9 /* AppDelegate.m */; };
 		79FA20CE1EF22F92000572D9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 79FA20CD1EF22F92000572D9 /* ViewController.m */; };
@@ -36,8 +35,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		25D782A01EF534530016E3AF /* test.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = test.h; sourceTree = "<group>"; };
-		25D782A11EF534530016E3AF /* test.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = test.m; sourceTree = "<group>"; };
 		79FA20C31EF22F92000572D9 /* TestDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		79FA20C71EF22F92000572D9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		79FA20C91EF22F92000572D9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -108,8 +105,6 @@
 				79FA20CA1EF22F92000572D9 /* AppDelegate.m */,
 				79FA20CC1EF22F92000572D9 /* ViewController.h */,
 				79FA20CD1EF22F92000572D9 /* ViewController.m */,
-				25D782A01EF534530016E3AF /* test.h */,
-				25D782A11EF534530016E3AF /* test.m */,
 				79FA20CF1EF22F92000572D9 /* Main.storyboard */,
 				79FA20D21EF22F92000572D9 /* Assets.xcassets */,
 				79FA20D41EF22F92000572D9 /* LaunchScreen.storyboard */,
@@ -279,7 +274,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				79FA20CE1EF22F92000572D9 /* ViewController.m in Sources */,
-				25D782A21EF534530016E3AF /* test.m in Sources */,
 				79FA20CB1EF22F92000572D9 /* AppDelegate.m in Sources */,
 				79FA20C81EF22F92000572D9 /* main.m in Sources */,
 			);
